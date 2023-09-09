@@ -27,6 +27,6 @@ export class B extends React.Component{
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <>
-    <A name="Kaushal" surname="Kishor"/>
+    <A name="Kaushal" surname="Kishor">Data 2</A>
   </>
 );

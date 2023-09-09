@@ -7,6 +7,7 @@ export class C extends React.Component{
         return(
             <>
                 <h1>C Component</h1>
+                <h2>{this.props.data3}</h2>
             </>
         )
     }
